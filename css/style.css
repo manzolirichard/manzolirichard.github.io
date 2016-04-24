@@ -1,0 +1,19 @@
+/* RESET */
+* {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; }
+ul {list-style-type: none;}
+
+/* CABEÇALHO */
+.cabecalho {width: 84%; float: left; padding: 10px 8%; background-color: #13c7ae; }
+.logo a { width: 350px; height: 150px; float: left; background: url(../img/logo.jpeg) no-repeat; font-size: 0;}
+
+/* MENU */
+.menu {width: 84%; float: left; background-color: #111; padding: 18px 8%;}
+.menu li {float: left;}
+.menu li a {color: #9d9d9d; margin-right: 25px; text-decoration:none;}
+.menu li a:hover {color: #fff;}
+
+/* SOCIAL ICONS */
+.social-icons {float: right;}
+.social-icons a {color: #fff; float: left; margin-left: 12px; }
+.btn-facebook:hover {color: #3B5998;}
+.btn-twitter:hover {color: #54A4D6;}
