@@ -20,4 +20,4 @@ p {text-align: center;}
 .btn-twitter:hover {color: #54A4D6;}
 
 /* IMAGENS */
-.perfil {position:relative; margin-top: 20px; margin-left: 810px; width: 270px; height: 250px;}
+.perfil {display: block; margin: 0 auto; width: 270px; height: 250px;}
