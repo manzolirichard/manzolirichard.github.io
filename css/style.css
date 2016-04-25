@@ -1,10 +1,11 @@
 /* RESET */
 * {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; }
 ul {list-style-type: none;}
+p {text-align: center;}
 
 /* CABEÇALHO */
 .cabecalho {width: 84%; float: left; padding: 10px 8%; background-color: #13c7ae; }
-.logo a { width: 350px; height: 150px; float: left; background: url(../img/logo.jpeg) no-repeat; font-size: 0;}
+.logo a {width: 350px; height: 150px; float: left; background:url(../img/logo.jpg) no-repeat; font-size: 0;}
 
 /* MENU */
 .menu {width: 84%; float: left; background-color: #111; padding: 18px 8%;}
@@ -17,3 +18,6 @@ ul {list-style-type: none;}
 .social-icons a {color: #fff; float: left; margin-left: 12px; }
 .btn-facebook:hover {color: #3B5998;}
 .btn-twitter:hover {color: #54A4D6;}
+
+/* IMAGENS */
+.perfil {position:relative; margin-top: 20px; margin-left: 810px; width: 270px; height: 250px;}
